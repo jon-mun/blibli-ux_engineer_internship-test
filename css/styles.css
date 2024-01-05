@@ -248,7 +248,8 @@ main {
     order: 4;
   }
 
-  .container.products {
+  /* initially .container.products */
+  .carousel-container {
     order: 3;
   }
 
